@@ -1,2 +1,3 @@
-# diabetes-analysis
-This project is based on the Diabetes dataset from the sklearn library which contains physiological variables used to predict diabetes progression.
+# CICD-Test-with-Diabetes-Data
+
+![alt text](diabetes_progression_vs_bmi.png)
